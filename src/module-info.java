@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author aoddl
- *
- */
-module CodingTest {
-}
